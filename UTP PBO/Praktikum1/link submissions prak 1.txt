@@ -1,0 +1,13 @@
+Nama : Qhonitha Adilla Taufani
+kelas : PTI-B
+
+LINK SUBMISSIONS PRAKTIKUM PBO TUGAS 1
+
+1. Menghitung Luas
+https://www.hackerrank.com/contests/pertemuan-3/challenges/menghitung-luas/submissions/code/1342220653
+
+2. Teks Kaisar
+https://www.hackerrank.com/contests/pertemuan-3/challenges/teks-kaisar
+
+3. Saldo Nasabah
+https://www.hackerrank.com/contests/pertemuan-3/challenges/saldo-nasabah
